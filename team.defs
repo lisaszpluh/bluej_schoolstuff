@@ -1,0 +1,18 @@
+#Sat Oct 17 16:47:22 CEST 2026
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/lisaszpluh/bluej_schoolstuff
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.savedpwd=BKRWOyiEp/MMVORToGNfUK03u3pCd+L34VyWCBMS9Svs7ROBCWiq0FM8XbGbpCUB
+bluej.teamsettings.user=lisaszpluh
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=szi230450@spengergasse.at
+bluej.teamsettings.yourName=Lisa

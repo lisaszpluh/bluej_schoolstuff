@@ -1,0 +1,15 @@
+#BlueJ class context
+#Thu Oct 08 21:26:16 CEST 2026
+comment0.target=Autobus
+comment1.params=neuKennzeichen neuBaujahr neuAnh\u00E4nger
+comment1.target=Autobus(java.lang.String, int, boolean)
+comment2.target=java.lang.String getKennzeichen()
+comment3.target=int getBaujahr()
+comment4.target=boolean getAnh\u00E4nger()
+comment5.params=neuKennzeichen
+comment5.target=void setKennzeichen(java.lang.String)
+comment6.params=neuBaujahr
+comment6.target=void setBaujahr(int)
+comment7.params=neuAnh\u00E4nger
+comment7.target=void setAnh\u00E4nger(boolean)
+numComments=8
