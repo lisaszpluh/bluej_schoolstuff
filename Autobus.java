@@ -8,7 +8,7 @@ public class Autobus{
         setKennzeichen(neuKennzeichen);
         setBaujahr(neuBaujahr);
         setAnhänger(neuAnhänger);
-        // Kommentar
+        // Kommentar ERWEITERT
     }
     
     public String getKennzeichen (){
